@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Social Login Example</string>
+    <string name="client_web_id">123321123321-example123example123example12312.apps.googleusercontent.com</string>
+    <string name="logout">Logout</string>
+</resources>
